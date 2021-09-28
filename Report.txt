@@ -1,0 +1,41 @@
+Data Report:
+
+Motor: 1
+start (sec), finish(sec), current(amps) 
+	200,		259,		2.997
+	610,		639,		7.01
+	950,		959,		1.983
+
+Motor: 2
+start (sec), finish(sec), current(amps) 
+	100,		139,		3.328
+	210,		239,		6.619
+	950,		959,		3.961
+
+Motor: 3
+start (sec), finish(sec), current(amps) 
+	310,		339,		5.335
+	550,		559,		4.145
+
+Motor: 4
+start (sec), finish(sec), current(amps) 
+Not Used
+
+Motor: 5
+start (sec), finish(sec), current(amps) 
+	210,		239,		6.272
+	950,		959,		4.005
+
+Motor: 6
+start (sec), finish(sec), current(amps) 
+***Current Exceeded*** 
+	250,		359,		9.001
+	650,		759,		4.006
+
+Motor: 7
+start (sec), finish(sec), current(amps) 
+	100,		139,		5.247
+***Current Exceeded*** 
+	210,		239,		9.012
+	950,		959,		3.968
+
